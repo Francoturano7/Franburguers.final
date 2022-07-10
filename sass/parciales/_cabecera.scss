@@ -110,7 +110,7 @@
     &__h1::after {
       content: " ~ ~";
     }
-    &__h3{
+    &__h2{
         text-align: map-get($estilos , centro );
         color: map-get($estilos , claro );
         font-size: map-get($estilos , tamFuente );
@@ -119,10 +119,10 @@
         margin:  map-get($estilos , margen );
         padding: map-get($estilos , pared );
     }
-    &__h3:hover{
+    &__h2:hover{
       font-size: 28px;
       }
-      &__h3::after {
+      &__h2::after {
         content:" !!";
       }
        }
@@ -161,7 +161,7 @@
   
     }
     
-      .cabecera__h3{
+      .cabecera__h2{
         font-size:15px ;
         padding:7px ;
         margin: 0 0 10px 0;
@@ -178,7 +178,7 @@
   
     }
     
-      .cabecera__h3{
+      .cabecera__h2{
         font-size:15px ;
         padding:7px ;
         margin: 0 0 10px 0;
