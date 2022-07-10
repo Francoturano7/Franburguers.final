@@ -471,3 +471,38 @@ a.parahov:hover {
     background: #830000;
     margin: 30px;
     padding: 17px; }
+
+.contenedor {
+  text-align: center;
+  background: #212020; }
+  .contenedor h1 {
+    text-align: center;
+    color: rgba(255, 253, 253, 0.946);
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background: #830000;
+    margin: 0px 30px 0px 30px;
+    padding: 17px; }
+  .contenedor h3 {
+    text-align: center;
+    color: rgba(255, 253, 253, 0.946);
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    padding: 17px; }
+  .contenedor h4 {
+    text-align: center;
+    color: rgba(255, 253, 253, 0.946);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    padding: 17px; }
+  .contenedor label {
+    color: antiquewhite;
+    font-size: 20px;
+    text-transform: uppercase; }
+  .contenedor input {
+    color: black;
+    font-size: 16px;
+    margin: 10px; }
